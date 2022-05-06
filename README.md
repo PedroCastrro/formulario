@@ -16,6 +16,6 @@
 
 ## Features <br/>
 
-[] Usuario
-[x]formulario
-[x]estilização
+[] Usuario<br/>
+[x]formulario<br/>
+[x]estilização<br/>
